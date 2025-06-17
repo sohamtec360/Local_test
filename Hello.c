@@ -7,5 +7,6 @@ int main()
     printf("Om namah shivay namo narayan");
     printf("JAY JAY SOMNATH");
     printf("OM NAMO NARAYANA");
+    printf("JAY MALLIKARJUN");
     return 0;
 }
