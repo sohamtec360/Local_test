@@ -8,5 +8,6 @@ int main()
     printf("JAY JAY SOMNATH");
     printf("OM NAMO NARAYANA");
     printf("JAY JAY MAHAKAL");
+    printf("JAY MALLIKARJUN");
     return 0;
 }
